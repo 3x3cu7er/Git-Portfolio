@@ -31,3 +31,9 @@ body {
 .footer {
     margin-top: 50px;
 }
+
+.card-img {
+    max-width: 100%; 
+    height: auto; 
+  }
+  
