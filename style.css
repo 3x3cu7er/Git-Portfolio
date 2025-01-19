@@ -1,0 +1,33 @@
+/* Custom styles */
+
+body {
+    color: #333;
+}
+
+.profile-img {
+    border: 5px solid white;
+    margin-bottom: 20px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.about, .projects, .contact {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.footer {
+    margin-top: 50px;
+}
